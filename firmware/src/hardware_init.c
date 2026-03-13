@@ -1,0 +1,1 @@
+/home/sharedaccount/m7_sdk_full/mcuxsdk/examples/_boards/evkmimx8mp/multicore_examples/rpmsg_lite_str_echo_rtos/remote/hardware_init.c

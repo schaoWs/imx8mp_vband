@@ -1,0 +1,1 @@
+/home/sharedaccount/m7_sdk_full/mcuxsdk/examples/multicore_examples/config.cmake
